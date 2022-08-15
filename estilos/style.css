@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: maven pro;
+}
+
+html, body{
+    width: 100vw;
+    height: 100vh;
+    background-color:rgb(0, 0, 0) ;
+}
+
+h1{
+    color: rgb(245, 245, 245);
+    padding: 10px;
+}
+  
